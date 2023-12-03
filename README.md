@@ -2,10 +2,10 @@
 
 <https://adventofcode.com/2023>
 
-## Day 1
+## Solutions
 
-### Solutions
-
-day 1, part 1: 55816
-
-day 1, part 2: 54980
+| Day | Part 1 | Part 2 |
+|---|---|---|
+| 1 | ✅ | ✅ |
+| 2 | ✅ | ✅ |
+| 3 | -- | -- |
