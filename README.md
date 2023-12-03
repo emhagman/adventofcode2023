@@ -5,7 +5,7 @@
 ## Solutions
 
 | Day | Part 1 | Part 2 | Difficulty |
-|---|---|---|
+|---|---|---| --- |
 | 1 | ✅ | ✅ | Annoying |
 | 2 | ✅ | ✅ | Easy |
 | 3 | -- | -- | -- |
