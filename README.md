@@ -13,7 +13,8 @@ for you! Run at your own risk.
 
 ## Solutions
 
-NOTE: Times are an estimate, they're not run 1000x for more accurate averages.
+- Code is not optimized for readability or speed of execution
+- Execution times are an estimate, they're not run 1000x for more accurate averages.
 
 | Day | Part 1 | Part 2 | Difficulty |
 |---|---|---| --- |
