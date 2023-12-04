@@ -15,6 +15,7 @@ for you! Run at your own risk.
 
 - Code is not optimized for readability or speed of execution
 - Execution times are an estimate, they're not run 1000x for more accurate averages.
+- `unwrap()/expect()` everywhere! I'm not shooting for perfect, correct Rust :)
 
 | Day | Part 1 | Part 2 | Difficulty |
 |---|---|---| --- |
