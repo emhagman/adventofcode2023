@@ -2,6 +2,12 @@
 
 <https://adventofcode.com/2023>
 
+## Setup
+
+- Clone this repo (into ~/projects/ for example)
+- Run `rustup` if you don't have Rust installed <https://rustup.rs/>
+- Run `cargo run --release` in the terminal
+
 ## Hardware
 
 Macbook M1 2020 (aarch64), 16GB RAM
