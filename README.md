@@ -17,11 +17,13 @@ Macbook M1 2020 (aarch64), 16GB RAM
 If you compile this and run it, the answers to the problems will be spoiled
 for you! Run at your own risk.
 
-## Solutions
+## Notes
 
 - Code is not optimized for readability or speed of execution
 - Execution times are an estimate, they're not run 1000x for more accurate averages.
 - `unwrap()/expect()` everywhere! I'm not shooting for perfect, correct Rust :)
+
+## Solutions
 
 | Day | Part 1 | Part 2 | Difficulty |
 |---|---|---| --- |
