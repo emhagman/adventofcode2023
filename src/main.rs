@@ -1,6 +1,7 @@
 mod day1;
 mod day2;
 mod day3;
+mod day4;
 mod utils;
 
 use std::time::Instant;
@@ -43,6 +44,18 @@ fn main() {
     println!(
         "day 3, part 2: {} in {:.2?}",
         day3::part2(&utils::read_entire_file("./data/day3.txt")),
+        before.elapsed()
+    );
+    let before = Instant::now();
+    println!(
+        "day 4, part 1: {} in {:.2?}",
+        day4::part1(&utils::read_entire_file("./data/day4.txt")),
+        before.elapsed()
+    );
+    let before = Instant::now();
+    println!(
+        "day 4, part 2: {} in {:.2?}",
+        day4::part2(&utils::read_entire_file("./data/day4.txt")),
         before.elapsed()
     );
 }

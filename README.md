@@ -30,3 +30,4 @@ for you! Run at your own risk.
 | 1 | ✅ 165.54µs | ✅ 1.96ms | Annoying |
 | 2 | ✅ 125.33µs | ✅ 108.21µs | Easy |
 | 3 | ✅ 9.87ms | ✅ 9.39ms | Easy |
+| 4 | ✅ 381.29µs | ⏳ | Easy |
